@@ -4,6 +4,8 @@ This is my first file on github
 
 I have added my first file on github.
 
+This is my second line on github.
+
 I LOVE GITHUB
 
 Thank you :)
